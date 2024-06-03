@@ -1,4 +1,4 @@
-Kindly download these Excel files from this repository and view them in Microsoft Excel.
+Kindly download these Excel file from this repository and view them in Microsoft Excel.
 
 Sales Performance Dashboard for a superstore
 
